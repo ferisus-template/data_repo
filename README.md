@@ -73,7 +73,7 @@ waydroid session start
 ```
 
 How to remove Waydroid on Ubuntu 22.04 | Reinstalling Waydroid on Ubuntu 22.04. Sometimes things don't go as planned and you need to remove it all and start over. To do that, follow the steps below:
-...
+```
 sudo waydroid session stop
 ...
 udo waydroid container stop
